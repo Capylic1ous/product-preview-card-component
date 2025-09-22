@@ -24,6 +24,7 @@ body {
     width: 21em;
     background-color: white;
     padding-bottom: 1.5em;
+    justify-content: center;
 }
 
 .product-info {
@@ -115,5 +116,6 @@ button img {
         padding: 1em;
         width: 100%;
     }
+
 
 }
