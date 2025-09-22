@@ -6,6 +6,11 @@
 
 body {
     background-color: hsl(23, 48%, 89%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 .product-image img {
@@ -24,7 +29,6 @@ body {
     width: 21em;
     background-color: white;
     padding-bottom: 1.5em;
-    justify-content: center;
 }
 
 .product-info {
@@ -119,3 +123,4 @@ button img {
 
 
 }
+
